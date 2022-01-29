@@ -23,7 +23,7 @@ public class USPS_Ship_A_Label_POM  extends Reusable_Annotation {
         //click on Ship a Label
         BaseClass.sendMailAndPackages().clickOnPrintLabelButton();
 
-        //BaseClass.homepage().clickonSize("M");
+        //BaseClass.homepage().clickOnSize("M");
 
 
     }
